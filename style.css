@@ -1,0 +1,15 @@
+.bg-img1 {
+  background-image: url("img/wallpaperflare.com_wallpaper.jpg");
+  height: 955px;
+  background-size: cover;
+}
+.bg-img2 {
+  background-image: url("img/moon.jpg");
+  height: 955px;
+  background-size: cover;
+}
+.bg-img3 {
+  background-image: url("img/forest.jpg");
+  height: 955px;
+  background-size: cover;
+}
